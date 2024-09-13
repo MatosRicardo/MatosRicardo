@@ -15,4 +15,4 @@
   
 </div>
 <br>
-Formado em análise e desenvolvimento de sistema, cursando ciências da computação e atualmente estou fazendo um bootcamp de programação que se chama PROPROFISSÃO do instituto PROA, com parceira do SENAC
+Sou formado em análise e desenvolvimento de sistema na unip, estou cursando ciências da computação na Cruzeiro do Sul e atualmente estou fazendo um bootcamp de programação que se chama PROPROFISSÃO do instituto PROA, com parceria do SENAC, estou desenvolvendo minhas habilidades como programador, participando de passeios e criando projetos pessoais e em grupos com meus colegas.
