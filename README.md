@@ -3,10 +3,12 @@
 Hello, seja bem-vindo ao meu perfil! Sou o Ricardo, atualmente estudante de Ciências da Computação e desenvolvedor full stack. <br/>
 Saiba que você é muito bem-vindo aqui; fique à vontade para ver meus projetos. Caso queira bater um papo, pode me contatar nos links abaixo 😄
 
-<div align="center>
+<div align="center">
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-matos-developer/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardoribeirodematos@gmail.com)](mailto:ricardoribeirodematos@gmail.com) <br>
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardoribeirodematos@gmail.com)](mailto:ricardoribeirodematos@gmail.com) 
+  
+  <br>
 </div>
 
 
