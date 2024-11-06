@@ -7,7 +7,7 @@ Saiba que você é muito bem-vindo aqui; fique à vontade para ver meus projetos
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-matos-developer/)
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ricardoribeirodematos@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardoribeirodematos@gmail.com)](mailto:ricardoribeirodematos@gmail.com) <br>
 </div>
 
 
