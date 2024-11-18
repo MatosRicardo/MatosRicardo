@@ -1,4 +1,4 @@
-## Ricardo Ribeiro De Matos - Developer Web 
+## Ricardo Ribeiro De Matos - Developer Full Stack
 
 Hello, seja bem-vindo ao meu perfil! Sou o Ricardo, atualmente estudante de Ciências da Computação e desenvolvedor full stack. <br/>
 Saiba que você é muito bem-vindo aqui; fique à vontade para ver meus projetos. Caso queira bater um papo, pode me contatar nos links abaixo 😄
