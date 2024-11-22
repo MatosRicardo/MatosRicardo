@@ -3,11 +3,17 @@
 Hello, seja bem-vindo ao meu perfil! Sou o Ricardo, atualmente estudante de Ciências da Computação e desenvolvedor full stack. <br/>
 Saiba que você é muito bem-vindo aqui; fique à vontade para ver meus projetos. Caso queira bater um papo, pode me contatar nos links abaixo 😄
 
-<div align="center">
-  
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-matos-developer/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardoribeirodematos@gmail.com)](mailto:ricardoribeirodematos@gmail.com) 
-  
+<div align="left">
+  <h3>Minhas Redes de Contato: </h3>
+  <a href="https://www.linkedin.com/in/g4briel-yur1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="gabrielsantos031bh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/adl_biel/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 <hr/>
