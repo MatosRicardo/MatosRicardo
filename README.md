@@ -5,7 +5,7 @@ Saiba que você é muito bem-vindo aqui; fique à vontade para ver meus projetos
 
 <div align="left">
   <h3>Minhas Redes de Contato: </h3>
-  <a href="https://www.linkedin.com/in/g4briel-yur1/" target="_blank">
+  <a href="[https://www.linkedin.com/in/g4briel-yur1/](https://www.linkedin.com/in/ricardo-matos-developer/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="gabrielsantos031bh@gmail.com" target="_blank">
