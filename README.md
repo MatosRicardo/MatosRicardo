@@ -1,6 +1,6 @@
 ## Ricardo Ribeiro De Matos - Developer Full Stack
 
-Hello, seja bem-vindo ao meu perfil! Sou o Ricardo, atualmente estudante de Ciências da Computação e desenvolvedor full stack. <br/>
+Seja bem-vindo(a) ao meu perfil! Sou o Ricardo, atualmente estudante de Ciências da Computação e desenvolvedor full stack. <br/>
 Saiba que você é muito bem-vindo aqui.  
 
 <div align="left"> 
