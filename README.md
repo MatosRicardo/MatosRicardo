@@ -11,7 +11,7 @@ Saiba que você é muito bem-vindo aqui.
 
   📚 Tenho experiência em projetos colaborativos e pessoais e cada dia mais me aperfeiçoando.
 
-  ☁️ Atualmente estou me aperfeiçoando em Cloud
+  ☁️ Atualmente estou aprofundando meus conhecimentos em Cloud.
 
   😄 Fique à vontade para ver meus projetos, caso queira bater um papo, pode me contatar nos links abaixo.
 
