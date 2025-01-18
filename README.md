@@ -45,8 +45,8 @@ Saiba que você é muito bem-vindo aqui.
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-    <img src="https://skillicons.dev/icons?i=js,git,mysql" />
-    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,react,vite" / <br/>
+    <img src="https://skillicons.dev/icons?i=js,git,react,vite" />
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,mysql" / <br/>
     <img src="https://skillicons.dev/icons?i=java,spring,aws,py" />
          
 </div>
