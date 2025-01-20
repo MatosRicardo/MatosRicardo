@@ -40,7 +40,7 @@ Seja bem-vindo(a) ao meu perfil! Sou o Ricardo, atualmente estudante de Ciência
     <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatosRicardo&layout=compact&hide_border=false&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" /> 
 
   <br><br>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatosRicardo&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatosRicardo&bg_color=000000&color=00bfbf&line=00bfbf&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MatosRicardo&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </p>
