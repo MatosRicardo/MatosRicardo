@@ -1,22 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ricardo+Ribeiro+De+Matos;I+study+computer+sciences+at+Unicsul;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
-## Ricardo Ribeiro De Matos - Developer Full Stack
-
-Seja bem-vindo(a) ao meu perfil! Sou o Ricardo, atualmente estudante de Ciências da Computação e desenvolvedor full stack. <br/> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+desenvolvedor+Full-Stack+Jr.;Bem-Vindo(a)+:%29)](https://git.io/typing-svg) 
 
 <div align="left"> 
 
 ## Sobre Mim
   
-  👨‍🎓 Sou estudante de Ciência da Computação na Cruzeiro Do Sul.
+👨‍🎓 Sou estudante do 3º semestre de Ciência da Computação na Cruzeiro do Sul, sempre em busca de novos desafios e aprendizados.
 
-  📚 Tenho experiência em projetos colaborativos e pessoais e cada dia mais me aperfeiçoando.
+📚 Tenho experiência em projetos colaborativos e pessoais, como o Kathon, que foi premiado como a Melhor Apresentação no Demoday 2024. Dedico-me diariamente ao aperfeiçoamento das minhas habilidades.
 
-  ☁️ Atualmente estou aprofundando meus conhecimentos em Cloud.
+☁️ Atualmente, estou focado em expandir meus conhecimentos em Cloud Computing.
 
-  😄 Fique à vontade para ver meus projetos, caso queira bater um papo, pode me contatar nos links abaixo.
+😄 Fique à vontade para conferir meus projetos! Caso queira trocar ideias ou iniciar uma conversa, é só me contatar pelos links abaixo.
 
 <div/>
 
