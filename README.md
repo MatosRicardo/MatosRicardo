@@ -44,7 +44,6 @@ Seja bem-vindo(a) ao meu perfil! Sou o Ricardo, atualmente estudante de Ciência
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MatosRicardo&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </p>
-    <br>
    
 <div/>
 
@@ -60,7 +59,7 @@ Seja bem-vindo(a) ao meu perfil! Sou o Ricardo, atualmente estudante de Ciência
     <img src="https://skillicons.dev/icons?i=java,spring,aws,py" />
          
 </div>
-<br>
+
 
 
 
