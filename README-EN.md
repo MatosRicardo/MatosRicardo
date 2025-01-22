@@ -3,7 +3,8 @@
 <div align="left"> 
 
 ## About Me
-<a href="https://github.com/matosricardo/matosricardo/blob/main/README.md">🇧🇷 Não fala Inglês? Clique aqui para ver a versão em Português.</a>
+
+💻 My name is Ricardo, I am a full-stack developer, and I am always seeking new learning opportunities to expand my technical skills.
   
 👨‍🎓 I am a 3rd-semester Computer Science student at Cruzeiro do Sul, always seeking new challenges and learning opportunities.
 
