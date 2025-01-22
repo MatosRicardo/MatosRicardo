@@ -1,10 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <div align="left"> 
-<a href="https://github.com/matosricardo/matosricardo/blob/main/README-EN.md">🇺🇸 Don't speak Portuguese? Click here to view the english version.</a>
 
 ## Sobre Mim
-<a href="https://github.com/ericknathan/ericknathan/blob/main/README-EN.md">🇺🇸 Don't speak Portuguese? Click here to view the english version.</a>
+<a href="https://github.com/matosricardo/matosricardo/blob/main/README-EN.md">🇺🇸 Don't speak Portuguese? Click here to view the english version.</a>
   
 👨‍🎓 Sou estudante do 3º semestre de Ciência da Computação na Cruzeiro do Sul, sempre em busca de novos desafios e aprendizados.
 
