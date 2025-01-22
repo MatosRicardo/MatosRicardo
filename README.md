@@ -10,7 +10,9 @@
 
 📚 Tenho experiência em projetos colaborativos e pessoais, como o Kathon, que foi premiado como a Melhor Apresentação no Demoday 2024. Dedico-me diariamente ao aperfeiçoamento das minhas habilidades.
 
-☁️ Atualmente, estou focado em expandir meus conhecimentos em Cloud Computing.
+☁️ Aluno do Restart 2 na Escola da Nuvem.
+
+🌱 Atualmente, estou aprofundando meus conhecimentos em front-end, com foco no Next.js.
 
 😄 Fique à vontade para conferir meus projetos! Caso queira trocar ideias ou iniciar uma conversa, é só me contatar pelos links abaixo.
 
