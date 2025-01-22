@@ -2,23 +2,23 @@
 
 <div align="left"> 
 
-## Sobre Mim
-<a href="https://github.com/matosricardo/matosricardo/blob/main/README-EN.md">🇺🇸 Don't speak Portuguese? Click here to view the english version.</a>
+## About Me
+<a href="https://github.com/matosricardo/matosricardo/blob/main/README.md">🇧🇷 Não fala Inglês? Clique aqui para ver a versão em Português.</a>
   
-👨‍🎓 Sou estudante do 3º semestre de Ciência da Computação na Cruzeiro do Sul, sempre em busca de novos desafios e aprendizados.
+👨‍🎓 I am a 3rd-semester Computer Science student at Cruzeiro do Sul, always seeking new challenges and learning opportunities.
 
-📚 Tenho experiência em projetos colaborativos e pessoais, como o Kathon, que foi premiado como a Melhor Apresentação no Demoday 2024. Dedico-me diariamente ao aperfeiçoamento das minhas habilidades.
+📚 I have experience in collaborative and personal projects, such as Kathon, which was awarded Best Presentation at Demoday 2024. I dedicate myself daily to improving my skills.
 
-☁️ Aluno do Restart 2 na Escola da Nuvem.
+☁️ Student of Restart 2 at Escola da Nuvem.
 
-🌱 Atualmente, estou aprofundando meus conhecimentos em front-end, com foco no Next.js.
+🌱 I am currently deepening my knowledge in front-end development, focusing on Next.js.
 
-😄 Fique à vontade para conferir meus projetos! Caso queira trocar ideias ou iniciar uma conversa, é só me contatar pelos links abaixo.
+😄 Feel free to check out my projects! If you'd like to exchange ideas or start a conversation, don't hesitate to contact me through the links below.
 
 <div/>
 
 <div align="center">
-  <h3>Minhas Redes de Contato: </h3>
+  <h3>My Contact Networks:</h3>
   <a href="https://www.linkedin.com/in/ricardomatos-developer/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -46,7 +46,7 @@
 
 <br>
 
-## Tecnologias que eu uso no meu dia a dia
+## Technologies I use in my daily life
 
 <div/>
 
