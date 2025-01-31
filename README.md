@@ -16,7 +16,7 @@
 
 ☁️ Aluno do re/Start na Escola da Nuvem.
 
-📚 Tenho experiência em projetos colaborativos e pessoais, como a Kathon, que foi premiado como a Melhor Apresentação no Demoday 2024 do instituto PROA. Dedico-me diariamente ao aperfeiçoamento das minhas habilidades.
+📚 Tenho experiência em projetos colaborativos e pessoais, como a Kathon, que foi premiado como a Melhor Apresentação no Demoday 2024 do instituto PROA.
 
 ### Minha Stack
 💻 Desenvolvimento Front-End com ReactJS, criando interfaces dinâmicas e responsivas.  
