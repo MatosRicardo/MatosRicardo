@@ -14,7 +14,7 @@
   
 👨‍🎓 Sou estudante do 3º semestre de Ciência da Computação na Cruzeiro do Sul, sempre em busca de novos desafios e aprendizados.
 
-📚 Tenho experiência em projetos colaborativos e pessoais, como o Kathon, que foi premiado como a Melhor Apresentação no Demoday 2024 do instituto PROA. Dedico-me diariamente ao aperfeiçoamento das minhas habilidades.
+📚 Tenho experiência em projetos colaborativos e pessoais, como a Kathon, que foi premiado como a Melhor Apresentação no Demoday 2024 do instituto PROA. Dedico-me diariamente ao aperfeiçoamento das minhas habilidades.
 
 ☁️ Aluno do re/Start na Escola da Nuvem.
 
