@@ -14,7 +14,7 @@
 
 💻 My name is Ricardo, I'm a full-stack developer, always seeking new learning opportunities to expand my technical skills.
   
-👨‍🎓 I am a 3rd-semester Computer Science student at Cruzeiro do Sul, constantly looking for new challenges and knowledge.
+👨‍🎓 I am a 3rd-semester Computer Science student at Cruzeiro do Sul.
 
 ☁️ Student at re/Start by Escola da Nuvem.
 
