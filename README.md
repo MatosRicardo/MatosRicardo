@@ -69,10 +69,9 @@
 <div/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-    <img src="https://skillicons.dev/icons?i=js,git,react,vite" />
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql" / <br/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" / <br/>
     <img src="https://skillicons.dev/icons?i=java,spring,aws,py" />
          
 </div>
