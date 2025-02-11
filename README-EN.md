@@ -72,7 +72,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
     <img src="https://skillicons.dev/icons?i=js,ts,react,next,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" / <br/>
-    <img src="https://skillicons.dev/icons?i=java,spring,aws,py" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,aws" />
          
 </div>
 
