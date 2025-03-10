@@ -16,18 +16,16 @@
   
 👨‍🎓 Sou estudante do 3º semestre de Ciência da Computação na Cruzeiro do Sul.
 
-☁️ Aluno do re/Start na Escola da Nuvem.
-
 📚 Tenho experiência em projetos colaborativos e pessoais, como a Kathon, que foi premiado como a Melhor Apresentação no Demoday 2024 do instituto PROA.
 
 ## Minha Stack
-💻 Desenvolvimento Front-End com ReactJS, criando interfaces dinâmicas e responsivas.  
+💻 Desenvolvimento Front-End com ReactJS/NextJS, criando interfaces dinâmicas e responsivas.  
 
 ⚙️ Desenvolvimento Back-End com Python e Java, utilizando Spring Boot para construir APIs escaláveis e eficientes.  
 
 💾 Bancos de Dados relacionais (MySQL) e não relacionais (MongoDB), garantindo eficiência no armazenamento e recuperação de dados.  
 
-🌱 Atualmente, estou aprofundando meus conhecimentos em front-end, com foco no Next.js.
+🌱 Atualmente, estou aprofundando meus conhecimentos em AWS.
 
 ## Contato
 
