@@ -16,18 +16,16 @@
   
 👨‍🎓 I am a 3rd-semester Computer Science student at Cruzeiro do Sul.
 
-☁️ Student at re/Start by Escola da Nuvem.
-
 📚 I have experience in collaborative and personal projects, such as Kathon, which won the Best Presentation award at Demoday 2024 by Instituto PROA.
 
 ## My Stack
-💻 Front-End Development with ReactJS, creating dynamic and responsive interfaces.  
+💻 Front-End Development with ReactJS/NextJs, creating dynamic and responsive interfaces.  
 
 ⚙️ Back-End Development with Python and Java, using Spring Boot to build scalable and efficient APIs.  
 
 💾 Relational databases (MySQL) and non-relational databases (MongoDB), ensuring efficiency in data storage and retrieval.  
 
-🌱 Currently, I am deepening my front-end knowledge, focusing on Next.js.
+🌱 I am currently deepening my knowledge of AWS.
 
 ## Contact
 
