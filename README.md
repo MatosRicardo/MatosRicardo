@@ -69,8 +69,8 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
     <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nextjs,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,py,mysql" / <br/>
-    <img src="https://skillicons.dev/icons?i=java,spring,aws" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,java,spring" / <br/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws" />
          
 </div>
 
