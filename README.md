@@ -68,7 +68,7 @@
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,git" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,py,java,spring" / <br/>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws" />
          
