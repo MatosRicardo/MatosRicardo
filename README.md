@@ -19,7 +19,7 @@
 📚 Tenho experiência em projetos colaborativos e pessoais, como a Kathon, que foi premiado como a Melhor Apresentação no Demoday 2024 do instituto PROA.
 
 ## Minha Stack
-💻 Desenvolvimento Front-End com ReactJS/NextJS, criando interfaces dinâmicas e responsivas.  
+💻 Desenvolvimento Front-End com Angular e React.js, criando interfaces dinâmicas e responsivas.  
 
 ⚙️ Desenvolvimento Back-End com Python e Java, utilizando Spring Boot para construir APIs escaláveis e eficientes.  
 
