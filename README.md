@@ -16,6 +16,8 @@
   
 👨‍🎓 Sou estudante do 3º semestre de Ciência da Computação na Cruzeiro do Sul.
 
+💼 Engenheiro de Software at @Itaú
+
 📚 Tenho experiência em projetos colaborativos e pessoais, como a Kathon, que foi premiado como a Melhor Apresentação no Demoday 2024 do instituto PROA.
 
 ## Minha Stack
