@@ -16,6 +16,8 @@
   
 👨‍🎓 I am a 3rd-semester Computer Science student at Cruzeiro do Sul.
 
+💼 Software Developer at @Itaú
+
 📚 I have experience in collaborative and personal projects, such as Kathon, which won the Best Presentation award at Demoday 2024 by Instituto PROA.
 
 ## My Stack
