@@ -56,9 +56,7 @@
 
   <br><br>
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatosRicardo&bg_color=000000&color=00bfbf&line=00bfbf&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatosRicardo&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</p>
+
    
 <div/>
 
@@ -75,11 +73,6 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws" />
          
 </div>
-
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatosRicardo}/count.svg" /></p> 
-<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
