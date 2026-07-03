@@ -14,7 +14,7 @@
 
 💻 Meu nome é Ricardo, sou desenvolvedor full-stack e estou sempre em busca de novos aprendizados para expandir minhas habilidades técnicas.
   
-👨‍🎓 Sou estudante do 5º semestre de Ciência da Computação na Cruzeiro do Sul.
+👨‍🎓 Sou estudante do 6º semestre de Ciência da Computação na Cruzeiro do Sul.
 
 💼 Engenheiro de Software at @Itaú
 
