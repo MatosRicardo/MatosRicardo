@@ -21,13 +21,13 @@
 📚 Tenho experiência em projetos colaborativos e pessoais, como a Kathon, que foi premiado como a Melhor Apresentação no Demoday 2024 do instituto PROA.
 
 ## Minha Stack
-💻 Desenvolvimento Front-End com Angular e React.js, criando interfaces dinâmicas e responsivas.
+💻 Desenvolvimento Front-End com Angular e React.js, criando interfaces escaláveis, dinâmicas e responsivas.
 
-⚙️ Desenvolvimento Back-End com Python e Java, utilizando Spring Boot para construir APIs escaláveis e eficientes.
+⚙️ Desenvolvimento Back-End com Python e Java, utilizando Spring Boot para projetar e desenvolver APIs robustas, escaláveis e de alto desempenho.
 
-💾 Bancos de Dados relacionais (MySQL) e não relacionais (MongoDB), garantindo eficiência no armazenamento e recuperação de dados.
+💾 Experiência com bancos de dados relacionais (MySQL) e não relacionais (MongoDB), com foco em modelagem de dados, otimização de performance e eficiência na recuperação de informações.
 
-🌱 Atualmente, estou aprimorando meus conhecimentos em AWS, focando em soluções de cloud.
+☁️ Forte experiência prática com serviços AWS (nível próximo ao Associate), incluindo arquitetura em nuvem, deploy e construção de soluções escaláveis e resilientes.
 
 ## Contato
 
