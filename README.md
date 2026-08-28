@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Desenvolvedor+Full-Stack+Jr.;Bem-Vindo(a)!👋🏽)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Desenvolvedor+Full-Stack.;Bem-Vindo(a)!👋🏽)](https://git.io/typing-svg) 
 
 <img src="https://github.com/user-attachments/assets/7e309f97-e9be-402d-86db-c419e2b310f9" 
      alt="ilustração de um computador" 
