@@ -27,7 +27,7 @@
 
 💾 Experience with relational (MySQL) and non-relational (MongoDB) databases, focusing on data modeling, performance optimization, and efficient data retrieval.
 
-☁️ Strong hands-on experience with AWS services (near Associate level), including cloud architecture, deployment, and building scalable, reliable solutions.
+☁️ Strong hands-on experience with AWS services, including cloud architecture, deployment, and building scalable, reliable solutions.
 
 
 ## Contact
