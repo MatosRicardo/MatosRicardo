@@ -27,7 +27,7 @@
 
 💾 Experiência com bancos de dados relacionais (MySQL) e não relacionais (MongoDB), com foco em modelagem de dados, otimização de performance e eficiência na recuperação de informações.
 
-☁️ Forte experiência prática com serviços AWS (nível próximo ao Associate), incluindo arquitetura em nuvem, deploy e construção de soluções escaláveis e resilientes.
+☁️ Forte experiência prática com serviços AWS, incluindo arquitetura em nuvem, deploy e construção de soluções escaláveis e resilientes.
 
 ## Contato
 
