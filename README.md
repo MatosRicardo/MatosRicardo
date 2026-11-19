@@ -1,67 +1,79 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header" alt="" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Desenvolvedor+Full-Stack.;Bem-Vindo(a)!👋🏽)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Ricardo+Matos!;Desenvolvedor+Full+Stack;AWS+Certified+Cloud+Practitioner;Bem-vindo(a)!)](https://git.io/typing-svg)
 
-<img src="https://github.com/user-attachments/assets/7e309f97-e9be-402d-86db-c419e2b310f9" 
-     alt="ilustração de um computador" 
-     width="400px" 
-     align="right">
+<img
+  src="https://github.com/user-attachments/assets/7e309f97-e9be-402d-86db-c419e2b310f9"
+  alt="Ilustração de um computador"
+  width="400"
+  align="right"
+/>
 
-<div align="left"> 
+## Sobre mim
 
-## Sobre Mim
-<a href="https://github.com/matosricardo/matosricardo/blob/main/README-EN.md">🇺🇸 Don't speak Portuguese? Click here to view the english version.</a>
+[🇺🇸 Don't speak Portuguese? Click here to view the English version.](https://github.com/matosricardo/matosricardo/blob/main/README-EN.md)
 
-💻 Meu nome é Ricardo, sou desenvolvedor full-stack e estou sempre em busca de novos aprendizados para expandir minhas habilidades técnicas.
-  
-👨‍🎓 Sou estudante do 6º semestre de Ciência da Computação na Cruzeiro do Sul.
+💻 Sou Ricardo Matos, desenvolvedor Full Stack com experiência em aplicações web, APIs e soluções em nuvem.
 
-💼 Engenheiro de Software at @Itaú
+👨‍🎓 Curso o 6º semestre de Ciência da Computação na Universidade Cruzeiro do Sul.
 
-📚 Tenho experiência em projetos colaborativos e pessoais, como a Kathon, que foi premiado como a Melhor Apresentação no Demoday 2024 do instituto PROA.
+💼 Atuo como estagiário de Engenharia de Software no Itaú, desenvolvendo soluções com Angular, Python e AWS.
 
-## Minha Stack
-💻 Desenvolvimento Front-End com Angular e React.js, criando interfaces escaláveis, dinâmicas e responsivas.
+🏅 Sou certificado **AWS Certified Cloud Practitioner**.
 
-⚙️ Desenvolvimento Back-End com Python e Java, utilizando Spring Boot para projetar e desenvolver APIs robustas, escaláveis e de alto desempenho.
+📚 Participei do desenvolvimento da **Kathon**, projeto premiado como Melhor Apresentação no Demo Day 2024 do Instituto PROA.
 
-💾 Experiência com bancos de dados relacionais (MySQL) e não relacionais (MongoDB), com foco em modelagem de dados, otimização de performance e eficiência na recuperação de informações.
+## Certificações e evolução
 
-☁️ Forte experiência prática com serviços AWS, incluindo arquitetura em nuvem, deploy e construção de soluções escaláveis e resilientes.
+🏆 **AWS Certified Cloud Practitioner — conquistada em novembro de 2026.**
+
+☁️ **AWS Certified Developer – Associate — estudos em andamento.**
+
+## Minha stack
+
+💻 **Front-end:** Angular, React.js, Next.js e TypeScript para construir interfaces dinâmicas, acessíveis e responsivas.
+
+⚙️ **Back-end:** Python, Java e Spring Boot para desenvolver APIs, automações e integrações entre sistemas.
+
+💾 **Bancos de dados:** MySQL e MongoDB, com foco em modelagem de dados e desempenho das consultas.
+
+☁️ **Cloud:** experiência prática com AWS Lambda, API Gateway, S3 e DynamoDB, aplicando boas práticas no desenvolvimento de soluções serverless.
+
+🤝 **Colaboração:** Git, code review, testes unitários e metodologias ágeis.
 
 ## Contato
 
-😄 Fique à vontade para conferir meus projetos! Caso queira trocar ideias ou iniciar uma conversa, é só me contatar pelos links abaixo.
-
-<div/>
+😄 Confira meus projetos! Para trocar ideias, colaborar ou conversar sobre oportunidades, entre em contato pelos links abaixo.
 
 <div align="center">
-  <h3>Minhas Redes de Contato: </h3>
-  <a href="https://www.linkedin.com/in/ricardomatos-developer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/ricardomatos-developer/">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="LinkedIn"
+    />
   </a>
-  
-  <a href="ricardoribeirodematos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:ricardoribeirodematos@gmail.com">
+    <img
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="Enviar e-mail"
+    />
   </a>
 </div>
 
-<hr/>
+---
 
-<br>
-
-## Tecnologias que eu uso no meu dia a dia
-
-<div/>
+## Tecnologias que uso no dia a dia
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,py,java,spring" / <br/>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws" />
-         
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" alt="HTML, CSS e Tailwind CSS" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,git" alt="JavaScript, TypeScript, React, Next.js, Angular e Git" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,py,java,spring" alt="Node.js, Python, Java e Spring" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws" alt="MySQL, PostgreSQL e AWS" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" alt="" />
