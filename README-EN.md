@@ -1,67 +1,79 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header" alt="" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+a+Full-Stack+Developer.;Welcome!👋🏽)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ricardo+Matos!;Full+Stack+Developer;AWS+Certified+Cloud+Practitioner;Welcome!)](https://git.io/typing-svg)
 
-<img src="https://github.com/user-attachments/assets/7e309f97-e9be-402d-86db-c419e2b310f9" 
-     alt="computer illustration" 
-     width="400px" 
-     align="right">
-
-<div align="left"> 
+<img
+  src="https://github.com/user-attachments/assets/7e309f97-e9be-402d-86db-c419e2b310f9"
+  alt="Computer illustration"
+  width="400"
+  align="right"
+/>
 
 ## About Me
-<a href="https://github.com/matosricardo/matosricardo/blob/main/README-PT.md">🇧🇷 Don't speak English? Click here to view the Portuguese version.</a>
 
-💻 My name is Ricardo, I'm a full-stack developer, always seeking new learning opportunities to expand my technical skills.
-  
-👨‍🎓 I am a 6rd-semester Computer Science student at Cruzeiro do Sul.
+[🇧🇷 Prefer Portuguese? Click here to view the Portuguese version.](https://github.com/matosricardo/matosricardo/blob/main/README-PT.md)
 
-💼 Software Developer at @Itaú
+💻 I'm Ricardo Matos, a Full Stack Developer with experience in web applications, APIs, and cloud solutions.
 
-📚 I have experience in collaborative and personal projects, such as Kathon, which won the Best Presentation award at Demoday 2024 by Instituto PROA.
+👨‍🎓 I'm a sixth-semester Computer Science student at Universidade Cruzeiro do Sul.
+
+💼 I work as a Software Engineering Intern at Itaú, developing solutions with Angular, Python, and AWS.
+
+🏅 I hold the **AWS Certified Cloud Practitioner** certification.
+
+📚 I contributed to **Kathon**, a project that won the Best Presentation award at Instituto PROA's Demo Day 2024.
+
+## Certifications and Learning
+
+🏆 **AWS Certified Cloud Practitioner — earned in November 2026.**
+
+☁️ **AWS Certified Developer – Associate — currently studying toward certification.**
 
 ## My Stack
-💻 Front-End Development using Angular and React.js, building scalable, dynamic, and responsive user interfaces.
 
-⚙️ Back-End Development with Python and Java, leveraging Spring Boot to design and develop robust, scalable, and high-performance APIs.
+💻 **Front-end:** Angular, React.js, Next.js, and TypeScript to build dynamic, accessible, and responsive interfaces.
 
-💾 Experience with relational (MySQL) and non-relational (MongoDB) databases, focusing on data modeling, performance optimization, and efficient data retrieval.
+⚙️ **Back-end:** Python, Java, and Spring Boot to develop APIs, automations, and system integrations.
 
-☁️ Strong hands-on experience with AWS services, including cloud architecture, deployment, and building scalable, reliable solutions.
+💾 **Databases:** MySQL and MongoDB, with a focus on data modeling and query performance.
 
+☁️ **Cloud:** hands-on experience with AWS Lambda, API Gateway, S3, and DynamoDB, applying best practices to serverless development.
+
+🤝 **Collaboration:** Git, code reviews, unit testing, and agile methodologies.
 
 ## Contact
 
-😄 Feel free to check out my projects! If you'd like to exchange ideas or start a conversation, reach out using the links below.
-
-</div>
+😄 Check out my projects! To exchange ideas, collaborate, or discuss opportunities, reach out through the links below.
 
 <div align="center">
-  <h3>My Contact Links: </h3>
-  <a href="https://www.linkedin.com/in/ricardomatos-developer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
+  <a href="https://www.linkedin.com/in/ricardomatos-developer/">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="LinkedIn"
+    />
   </a>
-  
-  <a href="ricardoribeirodematos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"  />
+  <a href="mailto:ricardoribeirodematos@gmail.com">
+    <img
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="Send an email"
+    />
   </a>
 </div>
 
-<hr/>
-
-<br>
+---
 
 ## Technologies I Use Daily
 
-</div>
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,py,java,spring" / <br/>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws" />
-         
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" alt="HTML, CSS, and Tailwind CSS" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,git" alt="JavaScript, TypeScript, React, Next.js, Angular, and Git" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,py,java,spring" alt="Node.js, Python, Java, and Spring" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws" alt="MySQL, PostgreSQL, and AWS" />
 </div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" alt="" />
